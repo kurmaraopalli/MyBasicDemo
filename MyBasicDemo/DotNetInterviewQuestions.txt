@@ -1,0 +1,142 @@
+﻿ C# .NET Interview Questions with Answers
+Get from the below link Learn "MVC 5 & MVC Core" video tutorials @1990 INR/ 30$.
+https://www.questpond.com/angular-wit...
+
+25 important ASP.NET MVC Interview Questions with answers
+For more such videos visit https://www.questpond.com
+
+25 ASP.NET MVC Interview questions covered in the video is as follows 
+00:00 Introduction
+4:11 Question 1 :- What is ASP .NET MVC Core ?
+4:45 Question 2 :- Differentiate between ASP .NET Webforms vs MVC vs MVC core ?
+9:52 Question 3 :- Explain MVC Architecture ?
+11:04 Question 4 :- Why do we have wwwroot folder ?
+11:29 Question 5 :- Explain the importance of appsettings.json ?
+12:10 Question 6 :- How to read configurations from appsettings.json ?
+14:07 Question 7 :- What is dependency injection ?
+15:26 Question 8 :- Why do we need dependency injection ?
+17:19 Question 9 :- How do we implement dependency injection ?
+19:32 Question 10 :- What is the use of Middleware ?
+21:02 Question 11 :- How to create a Middle ware ?
+23:21 Question 12 :- What does startup.cs file do ?
+23:21 Question 13 :- ConfigureServices vs Configure method ?
+25:47 Question 14 :- Explain the different Ways of doing DI?
+25:47 Question 15 :- Explain Scoped vs Transient vs Singleton ? 
+30:42 Question 16 :- What is Razor ?
+31:41 Question 17 :- How to pass Model data to a View ?
+32:19 Question 18 :- What is the use of Strongly typed views ?
+33:43 Question 19 :- Explain the concept of ViewModel in MVC ?
+35:03 Question 20 :- What is Kestrel Web Server ?
+36:06 Question 21 :- Why Kestrel when we have IIS server ?
+37:33 Question 22 :- What is the concept of Reverse proxy ?
+39:17 Question 23 :- What are cookies ?
+40:09 Question 24 :- What is the need session management ?
+41:51 Question 25 :- What are the various ways of doing Session management in ASP.NET ?
+
+ASP.NET MVC Interview Questions & Answers - Part 2
+
+Question 26  :- What exactly is a session ?
+Question 27  :- Explain "HTTP is a stateless protocol" ?
+Question 28  :- What are various way of doing session management ?
+Question 29  :- Are sessions enabled by default ?
+Question 30  :- How to enable sessions in MVC core ?
+Question 31  :- Are sessions variables shared(global) between users ?
+Question 32  :- Do session variables use cookies ?
+Question 33  :- What is a cookie ?
+Question 34  :- Explain idle time out in sessions ?
+Question 35  :- What does a Context means in HTTP ?
+
+ASP.NET MVC Interview Questions & Answers - Part 3
+
+Question 36 :- When should we use viewdata ?
+Question 37 :- How to pass data from controller to view ?
+Question 38 :- In same request can viewdata persist across actions ?
+Question 39 :- ViewData vs ViewBag
+Question 40 :- How does ViewBag work internally?
+Question 41 :- Explain ViewModel?
+Question 42 :-  ViewBag vs ViewModel whats the best practice?
+
+ASP.NET MVC Interview Questions & Answers - Part 4
+
+Question 43  :- Explain tempdata ?
+Question 44  :- Can tempdata persist across action redirects ?
+Question 45  :- How is tempdata different from viewdata ?
+Question 46  :- If tempdata is read is it available for next request ?
+Question 47  :- How to persist tempdata ?
+Question 48  :- What does Keep do in tempdata ?
+Question 49  :- Explain Peek in tempdata ?  
+Question 50  :- How is tempdata different from session variables ?
+Question 51  :- If i restart the server does tempdata, session stay ?
+Question 52  :- Is tempdata private to a user ?  
+Question 53  :- ViewData vs ViewBag vs Tempdata vs Session variables
+
+ASP.NET MVC Interview Questions & Answers - Part 5
+
+  Question 54  :- What is  WebAPI ?
+  Question 55  :- What is the advantage of WebAPI ?
+  Question 56  :- Explain REST and Architectural constraints of REST?
+  Question 57  :- Can we use  TCPIP protocol with Web API?
+  Question 58  :- How WebAPI different from MVC controller ?
+  Question 59  :- What is content negotiations in Web API ?
+  Question 60  :- WebAPI vs WCF ?
+  Question 61  :- WCF REST vs WebAPI REST ?
+  Question 62  :- How to return HTTP status codes ?
+  Question 63  :- For error which status code is returned ?
+  Question 64  :- How did you secure your web API ?
+  Question 65  :- How do current JS frameworks work with webAPI ?
+
+
+
+  This video contains the top 50 interview questions asked in interviews.
+00:00 - Introduction
+01:16 -  Q1. What are the main concepts of OOPS? What are classes and objects?
+07:18 -  Q2. What is Inheritance? Why Inheritance is important?
+10:33 -  Q3. What are the different types of Inheritance?
+14:38 – Q4. How to prevent a class from being Inherited?
+16:22 – Q5. What is Abstraction?
+19:30 – Q6. What is Encapsulation?
+23:52 – Q7. What is Polymorphism and what are its types?
+26:47 – Q8. What is Method Overloading? In how many ways a method can be overloaded?
+30:41 – Q9. What is the difference between Overloading and Overriding?
+34:45 – Q10. What is the difference between Method Overriding and Method Hiding?
+37:37 – Q11. What are the advantages and limitations of OOPS?
+41:31 – Q12.  What is the difference between an Abstract class and an Interface (atleast 4)?
+46:45 – Q13. When to use Interface and when Abstract class?
+ 50:39 – Q14. Why to even create Interfaces?
+54:38 – Q15. Do Interface can have a Constructor?
+56:17 – Q16. Can you create an instance of an Abstract class or an Interface?
+58:54 - Q17. What are Access Specifiers? What is the default access modifier in a class?
+03:47 – Q18. What is Boxing and Unboxing?
+01:06:35 – Q19. What is the difference between “String” and “StringBuilder”? When to use what?
+01:10:12- Q20. What are the basic string operations in C#?
+01:12:56- Q21. What are Nullable types?
+01:14:42 – Q22. Explain Generics in C#? When and why to use them?
+01:20:18 – Q23. How to implement Exception Handling in C#?
+01:24:05 – Q24. Can we execute multiple Catch blocks?
+ 01:25:35 – Q25. What is a Finally block and give an example when to use it?
+01:27:22 – Q26. Can we have only “Try” block without “Catch” block?
+01:28:45 – Q27. What is the difference between “throw ex” and “throw”?
+01:33:14 – Q28. What are the Loop types in C#?
+01:37.04 – Q29. What is the difference between “continue” and “break” statement?
+01:40:52 – Q30. What is the difference between Array and ArrayList (atleast 2)?
+01:43:39 - Q31. What is the difference between Arraylist and Hashtable?
+01:45:23 – Q32. What are Collections in C# and what are their types?
+01:48:49 – Q33. What is IEnumerable in C#?
+01:52:15 – Q34. What is the difference between IEnumerable and IEnumerator in C#?
+01:55:06 – Q35. What is the difference between IEnumerable and IQueryable in C#? Why to use IQueryable in sql queries?
+01:58:30 – Q36. What is the difference between “out” and “ref” parameters?
+02:05:06 – Q37. What is the purpose of “params” keyword?
+02:07:04 – Q38. What is a Constructor and what are its types?
+02:17:59 – Q39. When to use Private constructor?
+02:19:27 – Q40. What are Extension Methods in C#? When to use them?
+02:24:53 – Q41. What you mean by Delegate? When to use them?
+02:29:35 – Q42. What are Multicast Delegates?
+02:34:23 – Q43. What are Anonymous Delegates in C#?
+02:36:37 – Q44. What are the differences between Events and Delegates?
+02:40:28 – Q45. What is “this” keyword in C#? When to use it?
+02:44:09 – Q46. What is the purpose of “using” keyword in C#?
+02:48:42 – Q47. What is the difference between “is” and “as” operators?
+02:52:09 – Q48. What is the difference between “Readonly” and “Constant” variables (atleast 3)?
+02:57:35 – Q49. What is “Static” class? When to use it?
+03:00:26 – Q50. What is the difference between “var” and “dynamic” in C#?
+03:03:17 – Q51. What is Enum keyword used for?

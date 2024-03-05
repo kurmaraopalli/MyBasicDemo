@@ -1,0 +1,106 @@
+﻿DotNet core:
+1. What is microservices
+2. Why do you go to Microserice
+3. How Microservices are communicated.
+If you are preparing for .NET interviews then you can subscribe this channel for more questions on .NET skill.
+Timestamps 
+00:00 - Introduction
+00:36 - What is .NET Core 
+01:15 - Advantages of .NET Core Over . Net Framework 
+03:06 - Explain default project structure ?
+04:53 - Role of Program .CS file
+05:47 - What is the role of Startup.cs file?
+06:51 - What is the role of ConfigureServices & Configure method? 
+08:39 - What is Dependency Injection in ASP.NET Core? 
+12:56 - What are the types of Service Lifetimes of an object/ instance in ASP.NET Core?AddSingleton, AddSoped and AddTransient method? 
+15:31 - What is Middleware in ASP.NET Core?  
+16:44 - What is Kestrel? 
+17:50 - What is the difference between Kestrel and IIS?
+18:47 - What is request Delegate ?
+20:43- What is Host in ASP.NET Core ?
+21:53 - What are the various techniques to save configuration settings in ASP.NET Core?
+22:43 - How Routing Works?
+23:27 - Explain Attribute Routing ?
+24:21 - Complete Request processing pipeline?
+24:56 - Can ASP.NET core application  work with .NET 4.X Framework?
+25:20 - What is metapackage ?
+26:11 -  How ASP.NET core serve static files ?
+26:42 - Various JSON files ?
+27:56 - .NET Standard ?
+28:33 - Razor Pages ?
+29:14 - Dependency Injection ?
+30:19 - Custom Middleware ?
+31:51 - Explain session and state management ?
+33:17 - Explain model validation ?
+33:59 - How to handle errors ?
+35:17 - How to enable session ?
+35:46 - Explain Model Binding ?
+
+
+Angular:
+1. unsubscribe();
+2. When user select all, should select all Items, single item select
+3. How to manage work flows in Angular
+4. Rollback Authentication
+5. How to manage UX session data
+6. Angular Signals.
+7. What is Stand alone component
+00:00:00 - Introduction
+00:01:58 - What is Angular? 
+00:04:50 - What are Angular advantages?
+00:07:32 - What is the difference between AngularJS and Angular?
+00:10:42 - What is NPM?
+00:12:16 - What is CLI tool?
+00:13:57 - Section 2
+00:14:25 - What are Components in Angular?
+00:17:14 - What is a Selector and Template?
+00:18:40 - What is Module in Angular? What is app.module.ts file?
+00:21:43 - How an Angular App gets Loaded and Started? What are index.html, app-root, selector and main.ts?
+00:25:42 - What is a Bootstrapped Module & Bootstrapped Component?
+00:27:20 - Section 3
+00:27:54 - What is Data Binding in Angular?
+00:30:13 - What is String Interpolation in Angular?
+00:32:08 - What is Property Binding in Angular?
+00:35:06 - What is Event Binding in Angular?
+00:38:07 - What is Two way Binding in Angular?
+00:41:55 - Section 4 
+00:42:19 - What are Directives? What are the type of directives?
+00:44:49 - What is *ngIf Structural directive?
+00:46:43 - What is *ngFor Structural directive?
+00:48:06 - What is *ngSwitch Structural directive?
+00:50:35 - What is [ngStyle] Attribute directive?
+00:53:45 - What is [ngClass] Attribute directive?
+00:56:26 - What is the difference between Component, Attribute and Structural Directives?
+00:58:08 - Section 5 
+00:58:29 - What is Decorator?
+01:00:15 - What are the types of Decorator?
+01:01:05 - What are Pipes? What are the types of Pipes & Parameterized Pipes?
+01:03:25 - What is Chaining Pipes?
+01:04:14 - Section 6
+01:04:38 - Explain Services with Example?
+01:06:32 - How to create Servicein Angular?
+01:10:04 - How to use Dependency Injector with Services in Angular?
+01:11:56 - What is Hierarchical Dependency Injection?
+01:14:34 - What is Provider in  Angular?
+01:15:46 - What is the role of @Injectable Decorator in a Service?
+01:19:57 - Section 7 
+01:20:11 - What are Parent-Child Components?
+01:23:40 - What are Lifecycle Hooks in Angular?
+01:27:09 - What is a Constructor in Angular?
+01:29:24 - What is ngOnInit life cycle hook in Angular?
+01:30:52 - What is the difference between constructor and ngOnInit?
+01:35:21 - Section 8 
+01:36:01 - What are Asynchronous operations?
+01:38:20 - What is the difference between Promise and Observable?
+01:42:47 - What is RxJS?
+01:45:21 - What is Observable? How to implement Observable
+01:50:10 - What is the role of HttpClient in Angular?
+01:51:26 - Section 9 
+01:51:50 - What is Typescript? Or What is the difference between Typescript and Javascript?
+01:57:55 - What is the difference between let and var keyword?
+2:00:59 - What is Type annotation?
+02:02:27 - What are Built in/ Primitive and User-Defined/ Non-primitive Types in Typescript?
+02:04:21 - What is “any” type in Typescript?
+02:06:37 - What is Enum type in Typescript?
+02:08:48 - What is Type Assertion in Typescript?
+02:10:47 - What are Arrow Functions in Typescript?
